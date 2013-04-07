@@ -1,0 +1,39 @@
+﻿Build started 4/7/2013 3:51:20 PM.
+     1>Project "C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\deferred_shading_run\deferred_shading\deferred_shading_dx11\deferred_shading_2010.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "deferred_shading_2010\Win32\Debug\deferred_shading_2010.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IDXUT\Core /IDXUT\Optional /ZI /nologo /W4 /WX- /MP /Od /Oy- /D WIN32 /D _DEBUG /D DEBUG /D NOMINMAX /D _VC80_UPGRADE=0x0710 /D _UNICODE /D UNICODE /Gm- /EHsc /MDd /GS /arch:SSE2 /fp:fast /Zc:wchar_t /Zc:forScope /Fo"deferred_shading_2010\Win32\Debug\\" /Fd"deferred_shading_2010\Win32\Debug\vc100.pdb" /Gd /TP /wd4324 /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"deferred_shading_2010\Win32\Debug\deferred_shading_2010.exe" /INCREMENTAL /NOLOGO d3dcompiler.lib d3dx11d.lib d3dx9d.lib dxerr.lib dxguid.lib winmm.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"deferred_shading_2010\Win32\Debug\deferred_shading_2010.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"deferred_shading_2010\Win32\Debug\CascadedShadowMaps11.pdb" /SUBSYSTEM:WINDOWS /LARGEADDRESSAWARE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"deferred_shading_2010\Win32\Debug\deferred_shading_2010.lib" /MACHINE:X86 deferred_shading_2010\Win32\Debug\deferred_shading_2010.exe.embed.manifest.res
+         deferred_shading_2010\Win32\Debug\ColorUtil.obj
+         deferred_shading_2010\Win32\Debug\DXUT.obj
+         deferred_shading_2010\Win32\Debug\DXUTcamera.obj
+         deferred_shading_2010\Win32\Debug\DXUTDevice11.obj
+         deferred_shading_2010\Win32\Debug\DXUTDevice9.obj
+         deferred_shading_2010\Win32\Debug\DXUTgui.obj
+         deferred_shading_2010\Win32\Debug\DXUTmisc.obj
+         deferred_shading_2010\Win32\Debug\DXUTres.obj
+         deferred_shading_2010\Win32\Debug\DXUTsettingsdlg.obj
+         deferred_shading_2010\Win32\Debug\SDKmesh.obj
+         deferred_shading_2010\Win32\Debug\SDKmisc.obj
+         deferred_shading_2010\Win32\Debug\App.obj
+         deferred_shading_2010\Win32\Debug\main.obj
+         deferred_shading_2010\Win32\Debug\Texture2D.obj /IGNORE:4089 
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"deferred_shading_2010\Win32\Debug\deferred_shading_2010.exe.embed.manifest" /manifest deferred_shading_2010\Win32\Debug\deferred_shading_2010.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         deferred_shading_2010.vcxproj -> C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\deferred_shading_run\deferred_shading\deferred_shading_dx11\deferred_shading_2010\Win32\Debug\deferred_shading_2010.exe
+       FinalizeBuildStatus:
+         Deleting file "deferred_shading_2010\Win32\Debug\deferred_shading_2010.unsuccessfulbuild".
+         Touching "deferred_shading_2010\Win32\Debug\deferred_shading_2010.lastbuildstate".
+     1>Done Building Project "C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\deferred_shading_run\deferred_shading\deferred_shading_dx11\deferred_shading_2010.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.38
