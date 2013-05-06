@@ -1,0 +1,5 @@
+C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\Awe-asignment4\Editor\Content\InstancedModelPipeline.dll
+C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\Awe-asignment4\Editor\Content\InstancedModelPipeline.pdb
+C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\Awe-asignment4\InstancedModelPipeline\obj\x86\Debug\InstancedModelPipeline.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\Awe-asignment4\InstancedModelPipeline\obj\x86\Debug\InstancedModelPipeline.dll
+C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\Awe-asignment4\InstancedModelPipeline\obj\x86\Debug\InstancedModelPipeline.pdb

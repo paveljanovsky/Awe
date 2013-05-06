@@ -46,7 +46,7 @@ HRESULT ModelClass::Create( ID3D11Device* pDev11, LPCTSTR szFileName, bool bCrea
 	//char *p = const_cast<char*>(szFileName);
 	Initialize(pDev11,"..\\media\\cube\\Cats.xnb",L"..\\media\\cube\\EmptySpace.dds");
 	//Initialize(pDev11,(char*)szFileName,NULL);
-	mGBufferPS = new PixelShader(pDev11, L"GBuffer.hlsl", "GBufferPS", defines);
+	//mGBufferPS = new PixelShader(pDev11, L"GBuffer.hlsl", "GBufferPS", defines);
 	//TODO return
 	HRESULT hr = S_OK;
 	return hr;

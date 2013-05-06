@@ -1,0 +1,16 @@
+C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\Awe-asignment4\Editor\bin\x86\Debug\AweEditor.exe
+C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\Awe-asignment4\Editor\bin\x86\Debug\AweEditor.pdb
+C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\Awe-asignment4\Editor\bin\x86\Debug\InstancedModelPipeline.dll
+C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\Awe-asignment4\Editor\bin\x86\Debug\Ionic.Zip.dll
+C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\Awe-asignment4\Editor\bin\x86\Debug\VoxelTerrianMeshPipeline.dll
+C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\Awe-asignment4\Editor\bin\x86\Debug\InstancedModelPipeline.pdb
+C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\Awe-asignment4\Editor\bin\x86\Debug\VoxelTerrianMeshPipeline.pdb
+C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\Awe-asignment4\Editor\bin\x86\Debug\Ionic.Zip.pdb
+C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\Awe-asignment4\Editor\bin\x86\Debug\Ionic.Zip.xml
+C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\Awe-asignment4\Editor\obj\x86\Debug\Editor.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\Awe-asignment4\Editor\obj\x86\Debug\AweEditor.InputDialog.resources
+C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\Awe-asignment4\Editor\obj\x86\Debug\AweEditor.MainForm.resources
+C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\Awe-asignment4\Editor\obj\x86\Debug\AweEditor.Properties.Resources.resources
+C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\Awe-asignment4\Editor\obj\x86\Debug\Editor.csproj.GenerateResource.Cache
+C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\Awe-asignment4\Editor\obj\x86\Debug\AweEditor.exe
+C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\Awe-asignment4\Editor\obj\x86\Debug\AweEditor.pdb

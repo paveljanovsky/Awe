@@ -92,7 +92,7 @@ private:
 	vector<uint32_t> m_indices;
 	string m_textureReference;
 	bool isLoaded;
-	PixelShader* mGBufferPS;
+	//PixelShader* mGBufferPS;
 };
 
 #endif

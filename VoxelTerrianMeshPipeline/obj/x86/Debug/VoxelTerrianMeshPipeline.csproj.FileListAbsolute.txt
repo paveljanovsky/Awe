@@ -1,0 +1,4 @@
+C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\Awe-asignment4\VoxelTerrianMeshPipeline\bin\x86\Debug\VoxelTerrianMeshPipeline.dll
+C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\Awe-asignment4\VoxelTerrianMeshPipeline\bin\x86\Debug\VoxelTerrianMeshPipeline.pdb
+C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\Awe-asignment4\VoxelTerrianMeshPipeline\obj\x86\Debug\VoxelTerrianMeshPipeline.dll
+C:\Users\Pavel\visStudioWorkspace\DefferedRenderingExamples\Awe-asignment4\VoxelTerrianMeshPipeline\obj\x86\Debug\VoxelTerrianMeshPipeline.pdb
