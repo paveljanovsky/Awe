@@ -1,0 +1,34 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Build Folders
+bin
+obj
+*.suo
+*.user
+*.Debug
+Engine/Debug/*.*
+Engine/Release/*.*
+Editor/Debug/*.*
+Editor/Release/*.*
+Debug/*.*
+
+# mstest test results
+TestResults
+/Debug
+/Engine/Debug
+/*.opensdf
+/*.sdf
+/Editor/Content
+ipch/engine-72e3bb81/engine-12cbdb42.ipch

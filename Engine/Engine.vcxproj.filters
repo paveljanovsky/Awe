@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="DXUT">
+      <UniqueIdentifier>{abfaebc8-4ec0-4d41-a8de-2eaf145392f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Shaders">
+      <UniqueIdentifier>{0d0fc263-d513-4573-ad00-5c514188b7c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Xnb">
+      <UniqueIdentifier>{de0b5c92-d4b1-4576-af73-cd872f8213af}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\DXUT11\Core\DXUT.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DXUT11\Core\DXUTDevice9.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DXUT11\Core\DXUTDevice11.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DXUT11\Core\DXUTmisc.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DXUT11\Optional\DXUTcamera.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DXUT11\Optional\DXUTgui.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DXUT11\Optional\DXUTres.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DXUT11\Optional\DXUTsettingsdlg.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DXUT11\Optional\SDKmesh.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DXUT11\Optional\SDKmisc.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="App.cpp" />
+    <ClCompile Include="ColorUtil.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="physics.cpp" />
+    <ClCompile Include="Texture2D.cpp" />
+    <ClCompile Include="SceneGraph.cpp" />
+    <ClCompile Include="EnginePhysics.cpp" />
+    <ClCompile Include="PhysXObject.cpp" />
+    <ClCompile Include="BinaryReader.cpp">
+      <Filter>Xnb</Filter>
+    </ClCompile>
+    <ClCompile Include="cameraclass.cpp">
+      <Filter>Xnb</Filter>
+    </ClCompile>
+    <ClCompile Include="ContentReader.cpp">
+      <Filter>Xnb</Filter>
+    </ClCompile>
+    <ClCompile Include="d3dclass.cpp">
+      <Filter>Xnb</Filter>
+    </ClCompile>
+    <ClCompile Include="GenericTypeReader.cpp">
+      <Filter>Xnb</Filter>
+    </ClCompile>
+    <ClCompile Include="graphicsclass.cpp">
+      <Filter>Xnb</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicsTypeReaders.cpp">
+      <Filter>Xnb</Filter>
+    </ClCompile>
+    <ClCompile Include="inputclass.cpp">
+      <Filter>Xnb</Filter>
+    </ClCompile>
+    <ClCompile Include="lightclass.cpp">
+      <Filter>Xnb</Filter>
+    </ClCompile>
+    <ClCompile Include="lightshaderclass.cpp">
+      <Filter>Xnb</Filter>
+    </ClCompile>
+    <ClCompile Include="Logger.cpp">
+      <Filter>Xnb</Filter>
+    </ClCompile>
+    <ClCompile Include="MathTypeReaders.cpp">
+      <Filter>Xnb</Filter>
+    </ClCompile>
+    <ClCompile Include="MediaTypeReaders.cpp">
+      <Filter>Xnb</Filter>
+    </ClCompile>
+    <ClCompile Include="modelclass.cpp">
+      <Filter>Xnb</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimitiveTypeReaders.cpp">
+      <Filter>Xnb</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Xnb</Filter>
+    </ClCompile>
+    <ClCompile Include="systemclass.cpp">
+      <Filter>Xnb</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemTypeReaders.cpp">
+      <Filter>Xnb</Filter>
+    </ClCompile>
+    <ClCompile Include="textureclass.cpp">
+      <Filter>Xnb</Filter>
+    </ClCompile>
+    <ClCompile Include="TypeReaderManager.cpp">
+      <Filter>Xnb</Filter>
+    </ClCompile>
+    <ClCompile Include="XnbModelData.cpp">
+      <Filter>Xnb</Filter>
+    </ClCompile>
+    <ClCompile Include="XnbParser.cpp">
+      <Filter>Xnb</Filter>
+    </ClCompile>
+    <ClCompile Include="XnbTexture2dData.cpp">
+      <Filter>Xnb</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\DXUT11\Core\DXUT.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DXUT11\Core\DXUTDevice9.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DXUT11\Core\DXUTDevice11.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DXUT11\Core\DXUTmisc.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DXUT11\Optional\DXUTcamera.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DXUT11\Optional\DXUTgui.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DXUT11\Optional\DXUTres.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DXUT11\Optional\DXUTsettingsdlg.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DXUT11\Optional\SDKmesh.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DXUT11\Optional\SDKmisc.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="App.h" />
+    <ClInclude Include="Buffer.h" />
+    <ClInclude Include="ColorUtil.h" />
+    <ClInclude Include="Shader.h" />
+    <ClInclude Include="ShaderStructures.h" />
+    <ClInclude Include="Texture2D.h" />
+    <ClInclude Include="ShaderDefines.h">
+      <Filter>Resource Files\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneGraph.h" />
+    <ClInclude Include="EnginePhysics.h" />
+    <ClInclude Include="PhysXObject.h" />
+    <ClInclude Include="BinaryReader.h">
+      <Filter>Xnb</Filter>
+    </ClInclude>
+    <ClInclude Include="cameraclass.h">
+      <Filter>Xnb</Filter>
+    </ClInclude>
+    <ClInclude Include="ContentReader.h">
+      <Filter>Xnb</Filter>
+    </ClInclude>
+    <ClInclude Include="d3dclass.h">
+      <Filter>Xnb</Filter>
+    </ClInclude>
+    <ClInclude Include="GenericTypeReader.h">
+      <Filter>Xnb</Filter>
+    </ClInclude>
+    <ClInclude Include="graphicsclass.h">
+      <Filter>Xnb</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicsTypeReaders.h">
+      <Filter>Xnb</Filter>
+    </ClInclude>
+    <ClInclude Include="inputclass.h">
+      <Filter>Xnb</Filter>
+    </ClInclude>
+    <ClInclude Include="lightclass.h">
+      <Filter>Xnb</Filter>
+    </ClInclude>
+    <ClInclude Include="lightshaderclass.h">
+      <Filter>Xnb</Filter>
+    </ClInclude>
+    <ClInclude Include="Logger.h">
+      <Filter>Xnb</Filter>
+    </ClInclude>
+    <ClInclude Include="MathTypeReaders.h">
+      <Filter>Xnb</Filter>
+    </ClInclude>
+    <ClInclude Include="MediaTypeReaders.h">
+      <Filter>Xnb</Filter>
+    </ClInclude>
+    <ClInclude Include="modelclass.h">
+      <Filter>Xnb</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimitiveTypeReaders.h">
+      <Filter>Xnb</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Xnb</Filter>
+    </ClInclude>
+    <ClInclude Include="systemclass.h">
+      <Filter>Xnb</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemTypeReaders.h">
+      <Filter>Xnb</Filter>
+    </ClInclude>
+    <ClInclude Include="textureclass.h">
+      <Filter>Xnb</Filter>
+    </ClInclude>
+    <ClInclude Include="TypeReader.h">
+      <Filter>Xnb</Filter>
+    </ClInclude>
+    <ClInclude Include="TypeReaderManager.h">
+      <Filter>Xnb</Filter>
+    </ClInclude>
+    <ClInclude Include="XnbModelData.h">
+      <Filter>Xnb</Filter>
+    </ClInclude>
+    <ClInclude Include="XnbParser.h">
+      <Filter>Xnb</Filter>
+    </ClInclude>
+    <ClInclude Include="XnbTexture2dData.h">
+      <Filter>Xnb</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="BasicLoop.hlsl">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="ComputeShaderTile.hlsl">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="Forward.hlsl">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="FramebufferFlat.hlsl">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="FullScreenTriangle.hlsl">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="GBuffer.hlsl">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="GPUQuad.hlsl">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="GPUQuadDL.hlsl">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="PerFrameConstants.hlsl">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="Rendering.hlsl">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="SkyboxToneMap.hlsl">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+  </ItemGroup>
+</Project>
